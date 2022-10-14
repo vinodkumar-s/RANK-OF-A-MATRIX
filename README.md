@@ -12,9 +12,11 @@ To write a python program to find the rank of a matrix
 
 
 ## Program:
-## program to find the rank of a matrix.
-## Developed by: s.vinod kumar
-## RegisterNumber:22004903
+program to find the rank of a matrix.
+
+Developed by: s.vinod kumar
+
+RegisterNumber:22004903
 ```python
 import numpy as np
 A=np.array([[3,2,5],[1,1,2],[3,3,6]])
