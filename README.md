@@ -33,13 +33,6 @@ print(rank)
 
 
 
- 
- 
- \n
-
-
-
-
 ## OUTPUT:
 
 
