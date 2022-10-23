@@ -30,7 +30,17 @@ print(rank)
 
 ```
 
+
+
+
+
 ## OUTPUT:
+
+
+
+
+
+
 ![output](/OUTPUT1.png)
 
 ## Result:
